@@ -1,5 +1,8 @@
 # Courses
 
+[MBA 647](docs/MBA647.md)
+[BTM 660](docs/BTM660.md)
+
 ## Important dates
 DNE - January 27, 2025 <br> DISC - April 12, 2025
 
