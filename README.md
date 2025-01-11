@@ -24,7 +24,7 @@ DNE - January 27, 2025 <br> DISC - April 12, 2025
 | | |
 |--- |--- |
 | 	Sat, Feb. 1	| Deadline to apply for re-evaluation of courses ending in December 2024 (/2)	| 
-| 	Mon, Feb. 24	| Reading week begins	| 
+| 	Mon,&nbsp;Feb.&nbsp;24	| Reading week begins	| 
 | 	Thu, Feb. 27	| Deadline to submit required documentation to register with the Access Centre for Students with Disabilities and request exam accommodations for the Winter 2025 final examination period	| 
 | 	Fri, Feb. 28	| President’s Holiday, university closed	| 
 
@@ -43,4 +43,4 @@ DNE - January 27, 2025 <br> DISC - April 12, 2025
 | 	Sat, Apr. 12	| Deadline for academic withdrawal from two-term (/3 DISC) winter-term (/4 DISC) courses	| 
 | 	Tue, Apr. 15	| Examinations begin	| 
 | 	Fri, Apr. 18	| Easter holidays, university closed (April 18 - April 21)	| 
-| 	Wed, Apr. 30	| Aide financière aux études (AFE) end of funding for winter term	|
+| 	Wed,&nbsp;Apr.&nbsp;30	| Aide financière aux études (AFE) end of funding for winter term	|
